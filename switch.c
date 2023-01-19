@@ -49,8 +49,7 @@ int main()
 		break;
 		case 'v':printf(" V for Veterinarian Engineers");
 		break;
-
-        case 'w':printf(" W for Water and Sewer Engineers");
+		case 'w':printf(" W for Water and Sewer Engineers");
 		break;
 		case 'x':printf(" X for X-ray Engineers");
 		break;
